@@ -1,2 +1,5 @@
 requests
 beautifulsoup4
+pytest
+coverage
+pytest-cov
